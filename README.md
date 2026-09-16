@@ -9,7 +9,8 @@
 
 ### 📱 正式發布版 (v2.0 Release APK)
 
-[![下載 Android APK](https://img.shields.io/badge/📥_立即下載_庭律通_v2.0_正式版_APK-2.78MB-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ysklushi/lexmotion-for-lawyers/releases/download/v2.0/%E5%BA%AD%E5%BE%8B%E9%80%9A-LexMotion-v2.0-release.apk)  
+[![下載 Android APK](https://img.shields.io/badge/📥_立即下載_庭律通_v2.0_正式版_APK-2.78MB-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ysklushi/lexmotion-for-lawyers/releases/download/v2.0/LexMotion-v2.0-release.apk)
+  
 [![GitHub Release](https://img.shields.io/badge/Release-v2.0-blue?style=flat-square)](https://github.com/ysklushi/lexmotion-for-lawyers/releases/tag/v2.0)
 [![適用平台](https://img.shields.io/badge/Platform-Android_8.0+-orange?style=flat-square&logo=android)](https://github.com/ysklushi/lexmotion-for-lawyers)
 [![隱私保證](https://img.shields.io/badge/Privacy-100%25_純本機存儲-green?style=flat-square)](https://github.com/ysklushi/lexmotion-for-lawyers)
