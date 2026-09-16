@@ -1,0 +1,11 @@
+# Binary packages (delivered via GitHub Releases)
+*.apk
+
+# Local private full spec manual
+庭律通使用說明書.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
